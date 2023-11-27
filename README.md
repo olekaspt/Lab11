@@ -11,7 +11,7 @@ The objective of this Lab is to understand the basics for SCM
 1. clone the repo to linux working env
 1. Copy into the repo with some code (just grab any lab, or even my starter code).
 1. Add the code to the repo 
-  1. git add .
+  1. git add <the file you changed>
   1. git commit -a
   1. git push
 NOTE for the push you will need to setup github token (classic)
