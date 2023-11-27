@@ -45,8 +45,14 @@ Almost done now let's mimic an active branch with mulitple cooks
 1. Resolve merges (see the advice on merge request page)
 1. Get your code to the repo
   
+# Submission
 
+Send the repo link so we can see the merge requests.
 
 ## Alt Task
 
 If you have already submitted to a repo and have done a pull request that has been merged.  You can post the link the repo, your user name, and the pull request showing me that it was meged.
+
+# Extra Credit
+
+If you setup your repo to use actions to build and run the tests, you can obtain an extra 50 points to be used towards you labs.  Use the actions file from Lab00.  And follow steps done in lecture lab (it's recorded so you can obtain the recording from canvas).
