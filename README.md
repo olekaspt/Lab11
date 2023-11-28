@@ -33,7 +33,7 @@ No normally there is some protections on randos trashing your repo, but let's as
   
 1. Close your merge reqeust
   
-Almost done now let's mimic an active branch with mulitple cooks 
+Almost done now let's mimic an active branch with mulitple cooks (NOTE the following portion can be skipped, as of 11-28-2023 it doesn't cause a merge)
   
 1. git checkout -b "another  cool name you come up with here"
 1. Make a change to source file
